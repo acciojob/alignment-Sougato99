@@ -7,6 +7,7 @@ h1{
 }
 #table-1, tr, td{
 	border : 1px solid black;
+	padding : 1px;
 }
 .center{
 	text-align : center;
@@ -19,12 +20,18 @@ h1{
 }
 #table-2, tr, td{
 	border : 1px solid black;
+	padding : 1px;
+}
+#t21 td{
+	colspan : 6
 }
 #table-3{
 	width : 100%;
+	
 }
 #table-3, tr, td{
 	border : 1px solid black;
+	padding : 1px;
 }
 .green{
 	background-color : green;
